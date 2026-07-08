@@ -35,6 +35,12 @@ Full-stack ML platform for predicting device prices from technical specification
 **DevOps:** Docker, GitHub Actions, CI/CD, Nginx
 **Testing:** Jest, Supertest, Playwright
 
+## GitHub Intelligence Dashboard
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AhmadAbughanam&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
 ## Current Focus
 
 * Building production-style full-stack systems
