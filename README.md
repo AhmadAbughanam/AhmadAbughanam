@@ -56,6 +56,7 @@ I care about writing software that is not only functional, but also **maintainab
 
 ### DevOps & Observability
 `Docker` · `Nginx` · `GitHub Actions` · `CI/CD` · `Logging` · `Distributed Tracing` · `Metrics` · `AWS`
+
 ---
 
 ## 🛠️ Tech Stack
