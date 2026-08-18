@@ -229,3 +229,11 @@ Good Data Models
 Observable Services
        ↓
 AI That Solves Real Problems
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmadAbughanam&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
