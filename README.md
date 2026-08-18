@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Ahmad Maher Abughanam 👋</h1>
+<h1 align="center">Ahmad Maher Abughanam</h1>
 
 <h3 align="center">
 AI Engineer · Backend Software Engineer
 </h3>
 
 <p align="center">
-Building reliable backend systems, intelligent AI applications, and production-minded software.
+Building scalable backend systems and intelligent AI-powered applications.
 </p>
 
 <p align="center">
