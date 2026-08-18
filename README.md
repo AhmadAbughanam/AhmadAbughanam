@@ -229,6 +229,11 @@ Good Data Models
 Observable Services
        ↓
 AI That Solves Real Problems
+```
+
+I'm especially interested in the intersection of **backend engineering and applied AI** — building systems where APIs, data, distributed architecture, and intelligent models work together reliably.
+
+---
 
 ## 📈 GitHub Activity
 
@@ -237,3 +242,22 @@ AI That Solves Real Problems
 </p>
 
 ---
+
+## 🤝 Connect With Me
+
+I'm always interested in discussing **AI engineering, backend systems, software architecture, distributed systems, and interesting technical projects**.
+
+<p align="center">
+  <a href="mailto:abughannam98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abughannam98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-maher/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Maher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>AI Engineering · Backend Engineering · Distributed Systems</b>
+</p>
