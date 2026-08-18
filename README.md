@@ -42,60 +42,21 @@ I care about writing software that is not only functional, but also **maintainab
 
 ## ⚙️ Engineering Focus
 
-### Backend & API Engineering
+**Backend Engineering**
+REST APIs · Clean Architecture · Async Programming · Middleware · Authentication · Database Design
 
-- RESTful API design
-- OpenAPI / Swagger
-- Dependency Injection
-- Middleware architecture
-- Asynchronous programming
-- Validation & structured error handling
-- Authentication & authorization
-- Database design & persistence
+**Distributed Systems**
+Microservices · Event-Driven Architecture · RabbitMQ · Kafka · Redis · Transactional Outbox
 
-### Distributed Systems
+**AI Engineering**
+LLMs · RAG · Embeddings · Semantic Search · NLP · Computer Vision · Machine Learning
 
-- Microservices
-- Service-to-service communication
-- Event-driven architecture
-- RabbitMQ
-- Kafka fundamentals
-- Transactional Outbox
-- Dead-Letter Queues
-- Redis
+**Security & Reliability**
+JWT · RBAC/ReBAC · Validation · Error Handling · Testing · Secure API Design
 
-### Security
+**DevOps & Observability**
+Docker · Nginx · GitHub Actions · CI/CD · Logging · Tracing · Metrics · AWS
 
-- JWT Authentication
-- Refresh Token Flows
-- Role-Based Access Control — RBAC
-- Relationship-Based Access Control — ReBAC
-- Password Hashing
-- Secure API design
-
-### AI Engineering
-
-- Large Language Models
-- Retrieval-Augmented Generation — RAG
-- Embeddings
-- Semantic Search
-- Natural Language Processing
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- Model integration & AI-powered applications
-
-### DevOps & Observability
-
-- Docker & Docker Compose
-- Nginx
-- GitHub Actions
-- Linux
-- CI/CD fundamentals
-- Structured Logging
-- Distributed Tracing
-- Metrics
-- AWS fundamentals
 
 ---
 
@@ -174,14 +135,6 @@ I care about writing software that is not only functional, but also **maintainab
 ### Jordan Kuwait Bank
 **IT / Automation Intern**
 
-Worked in a regulated banking environment with exposure to:
-
-- Business Intelligence reporting and dashboards
-- MIS platforms and data-driven decision-support processes
-- Enterprise IT operations and infrastructure
-- Technical-support and operational workflows
-- Automation and RPA concepts
-- Collaboration across technical, operational, and business teams
 
 ---
 
@@ -199,19 +152,7 @@ Ranked among the leading participants in an AI-focused competition.
 
 Earned **full marks and an A grade** in both Graduation Project I and Graduation Project II for an AI-focused project.
 
----
 
-## 🚀 Selected Work
-
-A selection of projects from my GitHub:
-
-- 🤖 [BankShield AI](https://github.com/AhmadAbughanam/bankshield-ai)
-- 🧠 [GuardianAI](https://github.com/AhmadAbughanam/GuardianAI)
-- 🔍 [InsightSort](https://github.com/AhmadAbughanam/InsightSort)
-- ⚡ [InputIQ](https://github.com/AhmadAbughanam/InputIQ)
-- 📊 [DevicePricePro](https://github.com/AhmadAbughanam/DevicePricePro)
-
-> Explore my pinned repositories below for source code, architecture, implementation details, and project documentation.
 
 ---
 
@@ -235,13 +176,7 @@ I'm especially interested in the intersection of **backend engineering and appli
 
 ---
 
-## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmadAbughanam&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
