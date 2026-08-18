@@ -42,22 +42,20 @@ I care about writing software that is not only functional, but also **maintainab
 
 ## ⚙️ Engineering Focus
 
-**Backend Engineering**
-REST APIs · Clean Architecture · Async Programming · Middleware · Authentication · Database Design
+### Backend Engineering
+`REST APIs` · `Clean Architecture` · `Async Programming` · `Middleware` · `Authentication` · `Database Design`
 
-**Distributed Systems**
-Microservices · Event-Driven Architecture · RabbitMQ · Kafka · Redis · Transactional Outbox
+### Distributed Systems
+`Microservices` · `Event-Driven Architecture` · `RabbitMQ` · `Kafka` · `Redis` · `Transactional Outbox`
 
-**AI Engineering**
-LLMs · RAG · Embeddings · Semantic Search · NLP · Computer Vision · Machine Learning
+### AI Engineering
+`LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `NLP` · `Computer Vision` · `Machine Learning`
 
-**Security & Reliability**
-JWT · RBAC/ReBAC · Validation · Error Handling · Testing · Secure API Design
+### Security & Reliability
+`JWT` · `RBAC / ReBAC` · `Validation` · `Error Handling` · `Testing` · `Secure API Design`
 
-**DevOps & Observability**
-Docker · Nginx · GitHub Actions · CI/CD · Logging · Tracing · Metrics · AWS
-
-
+### DevOps & Observability
+`Docker` · `Nginx` · `GitHub Actions` · `CI/CD` · `Logging` · `Distributed Tracing` · `Metrics` · `AWS`
 ---
 
 ## 🛠️ Tech Stack
