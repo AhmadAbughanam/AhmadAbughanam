@@ -1,15 +1,15 @@
 <h1 align="center">Ahmad Maher Abughanam</h1>
 
 <h3 align="center">
-AI Engineer · Backend Software Engineer
+AI Engineer · LLM Applications · Machine Learning
 </h3>
 
 <p align="center">
-Building scalable backend systems and intelligent AI-powered applications.
+Building intelligent applications that combine AI, data, and reliable software engineering.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-maher/">
+  <a href="https://www.linkedin.com/in/ahmad-maher-2a67212b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abughannam98@gmail.com">
@@ -24,168 +24,132 @@ Building scalable backend systems and intelligent AI-powered applications.
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer and Backend Software Engineer** based in **Amman, Jordan**, with a B.Sc. in **Computer Science / Artificial Intelligence** from Middle East University.
+I'm a **Computer Science / Artificial Intelligence graduate** based in **Amman, Jordan**, focused on **AI engineering, LLM applications, RAG systems, AI agents, and applied machine learning**.
 
-My work focuses on building robust backend systems and integrating AI into real-world applications — from REST APIs and database architecture to microservices, event-driven systems, LLMs, RAG, embeddings, and semantic search.
+I build applications that integrate intelligent models with backend services, databases, APIs, and real-world business workflows.
 
-I care about writing software that is not only functional, but also **maintainable, secure, testable, observable, and ready to scale**.
+My work combines two areas:
 
-- 🎓 B.Sc. in Computer Science / Artificial Intelligence
-- 🏦 Former IT / Automation Intern at **Jordan Kuwait Bank**
-- 🥈 **2nd Place — SourceHive Hackathon**
-- 🏅 **7th Place — IEEE AI Hackathon**
-- 🎓 Graduation Project I & II — **Full Marks / A**
-- 📍 Amman, Jordan
-- 💡 Focus: **AI Engineering · Backend Engineering · Distributed Systems**
+* **AI Engineering:** LLM applications, retrieval-augmented generation, semantic search, embeddings, AI agents, and machine learning.
+* **Software Engineering:** Backend development, API design, databases, testing, system integration, and observability.
+
+I'm particularly interested in developing **reliable, measurable, and maintainable AI systems**, from model inference and retrieval pipelines to enterprise AI applications.
 
 ---
 
-## ⚙️ Engineering Focus
+## 🚀 Featured Projects
 
-### Backend Engineering
-`REST APIs` · `Clean Architecture` · `Async Programming` · `Middleware` · `Authentication` · `Database Design`
+### 🧠 [Amanah Drive — AI Document Intelligence Platform](https://github.com/AhmadAbughanam/amanah-drive)
 
-### Distributed Systems
-`Microservices` · `Event-Driven Architecture` · `RabbitMQ` · `Kafka` · `Redis` · `Transactional Outbox`
+A document intelligence application combining **RAG, semantic search, and AI agent workflows** with a modular backend architecture.
 
-### AI Engineering
-`LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `NLP` · `Computer Vision` · `Machine Learning`
+**Key capabilities:**
 
-### Security & Reliability
-`JWT` · `RBAC / ReBAC` · `Validation` · `Error Handling` · `Testing` · `Secure API Design`
+* Document ingestion, text extraction, chunking, and embedding generation.
+* Semantic search using Sentence Transformers and PostgreSQL/pgvector.
+* Citation-grounded question answering.
+* AI agents with tool execution and approval controls.
+* Asynchronous document processing, resilience mechanisms, distributed tracing, and automated testing.
 
-### DevOps & Observability
-`Docker` · `Nginx` · `GitHub Actions` · `CI/CD` · `Logging` · `Distributed Tracing` · `Metrics` · `AWS`
+**Tech Stack:** `Python` `FastAPI` `RAG` `Sentence Transformers` `PostgreSQL` `pgvector` `ASP.NET Core` `Docker`
+
+### 🍽️ [SmartServe — Restaurant Operations Platform](https://github.com/AhmadAbughanam/SmartServe)
+
+A multi-tenant restaurant management platform integrating business operations with AI-powered features.
+
+**Key capabilities:**
+
+* Ordering, inventory, kitchen workflows, payments, and administration.
+* AI-powered menu assistance and business insights.
+* Tenant isolation and role-based authorization.
+* API validation, automated testing, and containerized services.
+
+**Tech Stack:** `NestJS` `Next.js` `PostgreSQL` `Redis` `Python` `FastAPI` `Docker`
+
+### 📊 [DevicePricePro — Machine Learning Price Prediction](https://github.com/AhmadAbughanam/DevicePricePro)
+
+A machine learning application that predicts device prices using a trained LightGBM model.
+
+**Key capabilities:**
+
+* Machine learning prediction pipeline with Scikit-learn preprocessing.
+* Flask-based model inference APIs.
+* Individual and batch predictions.
+* Prediction history and Docker-based development setup.
+
+**Tech Stack:** `Python` `LightGBM` `Scikit-learn` `Flask` `Docker`
+
+### 🏆 [SourceHive — AI Recruitment Platform](https://github.com/AhmadAbughanam/SourceHive)
+
+**🥈 2nd Place — SourceHive Hackathon**
+
+An AI-enabled recruitment prototype developed during a hackathon.
+
+**Key capabilities:**
+
+* Resume intake and processing.
+* Candidate management and HR dashboard.
+* Interview portal and recruitment workflows.
+
+**Tech Stack:** `Python` `FastAPI` `React` `MySQL`
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technical Expertise
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### Databases & Persistence
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-`LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `NLP` · `Computer Vision` · `Deep Learning` · `LightGBM`
-
-### Infrastructure & Messaging
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-</p>
-
-### Frontend & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-</p>
+| Area                         | Technologies & Concepts                                                                |
+| ---------------------------- | -------------------------------------------------------------------------------------- |
+| **AI & LLM Engineering**     | LLMs, RAG, AI Agents, Embeddings, Semantic Search, Hugging Face, Sentence Transformers |
+| **Machine Learning**         | Python, PyTorch, Scikit-learn, LightGBM, NLP                                           |
+| **AI Applications & APIs**   | FastAPI, REST APIs, OpenAI API, ASP.NET Core, NestJS                                   |
+| **Databases & Retrieval**    | PostgreSQL, pgvector, MySQL, Redis                                                     |
+| **Infrastructure & Quality** | Docker, GitHub Actions, Linux, Testing, OpenTelemetry                                  |
 
 ---
 
 ## 💼 Experience
 
-### Jordan Kuwait Bank
-**IT / Automation Intern**
+### Jordan Kuwait Bank — IT / Automation Intern
 
-
----
-
-## 🏆 Achievements
-
-### 🥈 2nd Place — SourceHive Hackathon
-
-Built an **AI-powered resume intake system**, HR dashboard, and interview portal.
-
-### 🏅 7th Place — IEEE AI Hackathon
-
-Ranked among the leading participants in an AI-focused competition.
-
-### 🎓 Graduation Project
-
-Earned **full marks and an A grade** in both Graduation Project I and Graduation Project II for an AI-focused project.
-
-
+Gained exposure to enterprise IT operations, business intelligence reporting, MIS platforms, infrastructure workflows, and automation use cases in a regulated banking environment.
 
 ---
 
-## 🎯 What I Care About
+## 🏆 Education & Achievements
 
-```text
-Clean Architecture
-       ↓
-Reliable APIs
-       ↓
-Secure Systems
-       ↓
-Good Data Models
-       ↓
-Observable Services
-       ↓
-AI That Solves Real Problems
-```
+🎓 **B.Sc. Computer Science / Artificial Intelligence**
+Middle East University — July 2026
+**GPA:** 3.50 / 4.00
 
-I'm especially interested in the intersection of **backend engineering and applied AI** — building systems where APIs, data, distributed architecture, and intelligent models work together reliably.
+🥈 **2nd Place — SourceHive Hackathon**
+Developed an AI-enabled recruitment prototype with resume intake, an HR dashboard, and an interview portal.
+
+🏅 **7th Place — IEEE AI Hackathon**
+
+🎓 **Graduation Project — Full Marks / A**
+Achieved an A grade in both Graduation Project I and Graduation Project II.
 
 ---
 
+## 🎯 Current Interests
 
+* LLM engineering and retrieval-augmented generation.
+* AI agents and tool-using applications.
+* AI evaluation, observability, and reliability.
+* Model inference and AI infrastructure.
+* Enterprise AI integration and solutions architecture.
+
+---
 
 ## 🤝 Connect With Me
 
-I'm always interested in discussing **AI engineering, backend systems, software architecture, distributed systems, and interesting technical projects**.
+I'm interested in opportunities involving **AI Engineering, LLM Applications, Applied Machine Learning, and AI Solutions Engineering**.
 
 <p align="center">
   <a href="mailto:abughannam98@gmail.com">
     <img src="https://img.shields.io/badge/Email-abughannam98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-maher/">
+  <a href="https://www.linkedin.com/in/ahmad-maher-2a67212b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Maher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -193,5 +157,5 @@ I'm always interested in discussing **AI engineering, backend systems, software 
 ---
 
 <p align="center">
-  <b>AI Engineering · Backend Engineering · Distributed Systems</b>
+  <b>AI Engineering · LLM Systems · Applied Machine Learning</b>
 </p>
